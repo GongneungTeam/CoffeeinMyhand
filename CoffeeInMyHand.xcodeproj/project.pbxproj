@@ -17,6 +17,9 @@
 		D6498CD626539EB3007AF77B /* CoffeeInMyHandUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6498CD526539EB3007AF77B /* CoffeeInMyHandUITests.swift */; };
 		D6498CE82653B4B0007AF77B /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6498CE72653B4B0007AF77B /* ViewController2.swift */; };
 		D6498CEA2653B549007AF77B /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6498CE92653B549007AF77B /* ViewController3.swift */; };
+		D64D8AAE2657FF3300F782C5 /* Coffee.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D64D8AAD2657FF3300F782C5 /* Coffee.jpg */; };
+		D64D8AB02658024300F782C5 /* ViewController_login2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64D8AAF2658024300F782C5 /* ViewController_login2.swift */; };
+		D68F5F8426568B6000F0ED8F /* ViewController_login1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68F5F8326568B6000F0ED8F /* ViewController_login1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +56,9 @@
 		D6498CD726539EB3007AF77B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D6498CE72653B4B0007AF77B /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		D6498CE92653B549007AF77B /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
+		D64D8AAD2657FF3300F782C5 /* Coffee.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Coffee.jpg; path = ../../../Downloads/Coffee.jpg; sourceTree = "<group>"; };
+		D64D8AAF2658024300F782C5 /* ViewController_login2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_login2.swift; sourceTree = "<group>"; };
+		D68F5F8326568B6000F0ED8F /* ViewController_login1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_login1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +112,9 @@
 				D6498CB326539EB2007AF77B /* AppDelegate.swift */,
 				D6498CB526539EB2007AF77B /* SceneDelegate.swift */,
 				D6498CB926539EB2007AF77B /* Main.storyboard */,
+				D64D8AAF2658024300F782C5 /* ViewController_login2.swift */,
+				D64D8AAD2657FF3300F782C5 /* Coffee.jpg */,
+				D68F5F8326568B6000F0ED8F /* ViewController_login1.swift */,
 				D6498CE92653B549007AF77B /* ViewController3.swift */,
 				D6498CE72653B4B0007AF77B /* ViewController2.swift */,
 				D6498CB726539EB2007AF77B /* ViewController.swift */,
@@ -238,6 +247,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D6498CC026539EB3007AF77B /* LaunchScreen.storyboard in Resources */,
+				D64D8AAE2657FF3300F782C5 /* Coffee.jpg in Resources */,
 				D6498CBD26539EB3007AF77B /* Assets.xcassets in Resources */,
 				D6498CBB26539EB2007AF77B /* Main.storyboard in Resources */,
 			);
@@ -264,9 +274,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D68F5F8426568B6000F0ED8F /* ViewController_login1.swift in Sources */,
 				D6498CEA2653B549007AF77B /* ViewController3.swift in Sources */,
 				D6498CB826539EB2007AF77B /* ViewController.swift in Sources */,
 				D6498CE82653B4B0007AF77B /* ViewController2.swift in Sources */,
+				D64D8AB02658024300F782C5 /* ViewController_login2.swift in Sources */,
 				D6498CB426539EB2007AF77B /* AppDelegate.swift in Sources */,
 				D6498CB626539EB2007AF77B /* SceneDelegate.swift in Sources */,
 			);
